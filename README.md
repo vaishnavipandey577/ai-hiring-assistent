@@ -3,10 +3,9 @@
 
 > An intelligent interview preparation and hiring tool powered by **Groq's LLaMA 3.1** model, built with **Streamlit**.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red?style=flat&logo=streamlit)
-![Groq](https://img.shields.io/badge/Groq-LLaMA%203.1-orange?style=flat)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+![Python](screanshot10.png)
+![Streamlit](screanshot13.png)
+![Groq](screanshot14.png)
 
 ---
 
@@ -230,11 +229,3 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ## 👨‍💻 Author
 
 Built with ❤️ using Groq + LLaMA + Streamlit.
-
----
-
-## 🌟 Support
-
-If you found this project helpful, please give it a ⭐ on GitHub!
-
-> 💬 For issues or feature requests, open a [GitHub Issue](https://github.com/your-username/talentscout/issues).
