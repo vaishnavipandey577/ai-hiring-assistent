@@ -3,9 +3,9 @@
 
 > An intelligent interview preparation and hiring tool powered by **Groq's LLaMA 3.1** model, built with **Streamlit**.
 
-![Python](screanshot10.png)
-![Streamlit](screanshot13.png)
-![Groq](screanshot14.png)
+![Python](screenshot10.png)
+![Streamlit](screenshot13.png)
+![Groq](screenshot14.png)
 
 ---
 
