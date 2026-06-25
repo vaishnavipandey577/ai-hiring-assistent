@@ -1,0 +1,5 @@
+
+# Ignore git backup dirs
+**/.git_backup*
+.git_backup*
+
