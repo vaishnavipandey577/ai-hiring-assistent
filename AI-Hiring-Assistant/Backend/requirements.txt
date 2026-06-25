@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+scikit-learn
+fuzzywuzzy
+sentence-transformers
+python-Levenshtein
+pydantic
+pymongo
+bson
+python-dotenv
+google-generativeai
+apscheduler
+dotenv
+aiosmtplib
